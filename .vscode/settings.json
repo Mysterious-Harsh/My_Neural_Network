@@ -1,3 +1,6 @@
 {
-	"cSpell.words": ["dbiases", "dvalue", "dweights"]
+	"cSpell.words": ["dbiases", "dvalue", "dweights"],
+	"notebook.output.wordWrap": true,
+	"notebook.output.scrolling": true,
+	"notebook.output.textLineLimit": 20
 }
